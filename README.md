@@ -2,7 +2,7 @@
 
 ## Demo
 
-![](https://github.com/axycove/trello-clone/demo/kanban-board-demo.gif)
+![](https://github.com/axycove/trello-clone/blob/main/demo/kanban-board-demo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
