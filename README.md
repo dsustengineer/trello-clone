@@ -25,6 +25,6 @@ Inspired by Imanov and Bespoyav's [FullStack React with TypeScript](https://www.
 
 P.S.
 
-I had to piece the broken parts (fix imports, small styled-components change, update npm packages to support React 18) in order to make this work as it should. See reviews on Amazon. So you can fork/clone this repo for a working version. Cheers!
+Had to piece the broken parts (fix imports, small styled-components change, update npm packages to support React 18) in order to make this work as it should. See reviews on Amazon. So you can fork/clone this repo for a working version. Cheers!
 
 
